@@ -1,5 +1,9 @@
 # 绝妙的个人生产力
 
+> 这是一份笔者自用的资源清单，专注于提升个人生产力的知识方法和工具。
+>
+> 感谢jyguyomarch的[awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)，本单受其启发，
+
 - [绝妙的个人生产力](#绝妙的个人生产力)
 - [The zen of productivity](#the-zen-of-productivity)
 - [笔记软件](#笔记软件)
