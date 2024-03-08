@@ -31,9 +31,11 @@ Image auto upload Plugin： 配合Picgo，阿里云OSS实现图床搭建与自�
 
 
 ## Notion
-用于博客数据库
-个人博客：https://www.kashiwabyte.tech/
-建站框架：https://github.com/tangly1024/NotionNext
+用于博客数据库    
+
+个人博客：https://www.kashiwabyte.tech/    
+建站框架：https://github.com/tangly1024/NotionNext  
+
 用于云端笔记存储
 
 
@@ -80,7 +82,8 @@ FiraCode Nerd Font
 
 # 时间管理
 ## Wakatime
-支持 Obsidian 和 vscode 以及其他很多工具的使用记录与分析
-（Obsidian，vscode也因其可扩展性使得多端使用记录分析成为了可能）
+支持 Obsidian 和 vscode 以及其他很多工具的使用记录与分析  
+
+（以此为契，亦可看出Obsidian，Vscode的可扩展性使得整套生产力体系宛若一体）
 ![image.png](https://kashiwa-pic.oss-cn-beijing.aliyuncs.com/20240308220303.png)
 
