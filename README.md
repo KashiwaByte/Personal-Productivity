@@ -10,13 +10,13 @@
 # 笔记软件
 
 ## Obsidian
-用于知识记录
+* 用于知识记录
 
 ## 插件
 
 ### 基础插件
-Remotely Save：配合阿里云OSS进行多端同步
-Image auto upload Plugin： 配合Picgo，阿里云OSS实现图床搭建与自动上传
+* Remotely Save：配合阿里云OSS进行多端同步
+* Image auto upload Plugin： 配合Picgo，阿里云OSS实现图床搭建与自动上传
 
 
 ### 增强插件
@@ -31,18 +31,20 @@ Image auto upload Plugin： 配合Picgo，阿里云OSS实现图床搭建与自�
 
 
 ## Notion
-用于博客数据库    
+* 用于云端笔记存储
+* 个人管理
+* 用于博客数据库    
 
-个人博客：https://www.kashiwabyte.tech/    
-建站框架：https://github.com/tangly1024/NotionNext  
+个人博客：https://www.kashiwabyte.tech/      
+建站框架：https://github.com/tangly1024/NotionNext    
 
-用于云端笔记存储
+
 
 
 
 # 代码工具
 # vscode
-日常代码实现
+* 日常代码实现
 
 
 
@@ -56,9 +58,9 @@ Image auto upload Plugin： 配合Picgo，阿里云OSS实现图床搭建与自�
 ## Windows
 
 ### PowerShell 7+
-支持命令的记忆
-支持git集成
-支持Anaconda集成
+* 支持命令的记忆
+* 支持git集成
+* 支持Anaconda集成
 
 
 #### 插件
