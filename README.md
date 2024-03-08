@@ -1,3 +1,24 @@
+- [The zen of productivity](#the-zen-of-productivity)
+- [笔记软件](#笔记软件)
+  - [Obsidian](#obsidian)
+  - [插件](#插件)
+    - [基础插件](#基础插件)
+    - [增强插件](#增强插件)
+  - [Notion](#notion)
+- [代码工具](#代码工具)
+- [vscode](#vscode)
+  - [插件](#插件-1)
+- [命令行](#命令行)
+  - [Windows](#windows)
+    - [PowerShell 7+](#powershell-7)
+      - [字体](#字体)
+      - [插件](#插件-2)
+        - [Oh my Posh](#oh-my-posh)
+- [文件管理](#文件管理)
+  - [Listary](#listary)
+- [时间管理](#时间管理)
+  - [Wakatime](#wakatime)
+
 # The zen of productivity
 1. 一站式优于东拼西凑
 2. 可扩展性优于限制
@@ -62,15 +83,17 @@
 * 支持git集成
 * 支持Anaconda集成
 
+####  字体
+* FiraCode Nerd Font    
+* 好看且支持Oh my Posh
+
 
 #### 插件
 ##### Oh my Posh
 Peru主题：支持git可视化，支持python版本可视化，支持时间记录，支持主机名记录
 ![image.png](https://kashiwa-pic.oss-cn-beijing.aliyuncs.com/20240308215336.png)
 
-####  字体
-FiraCode Nerd Font
-好看且支持Oh my Posh
+
 
 
 
