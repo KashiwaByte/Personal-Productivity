@@ -1,3 +1,6 @@
+# 绝妙的个人生产力
+
+- [绝妙的个人生产力](#绝妙的个人生产力)
 - [The zen of productivity](#the-zen-of-productivity)
 - [笔记软件](#笔记软件)
   - [Obsidian](#obsidian)
