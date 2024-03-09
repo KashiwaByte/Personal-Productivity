@@ -151,6 +151,12 @@ Peru主题：支持git可视化，支持python版本可视化，支持时间记�
 
 #### 插件
 
+gsudo:用于在PowerShell中实现Linux，sudo的效果。  
+使用指南：https://www.kashiwabyte.tech/article/pwshbetter
+
+Z命令快速查找：z命令可以实现在PowerShell输入地址中的某一段直接进入过去进入的地址。  
+使用指南：https://www.kashiwabyte.tech/article/pwshbetter
+
 # 文件管理
 ## Listary
 支持文件快速检索与直接操作
