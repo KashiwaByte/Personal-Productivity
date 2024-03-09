@@ -1,6 +1,6 @@
 # 绝妙的个人生产力
 
-> 这是一份笔者自用的资源清单，专注于提升个人生产力的知识方法和工具。
+> 这是一份笔者自用的资源清单，专注于提升个人生产力的知识方法和工具。推荐优先获取主要软件，插件可以酌情选配。
 >
 >以下绝大部分软件和资源可以直接在网站上搜索到，部分特殊资源会给出链接。
 >
@@ -11,6 +11,7 @@
 - [翻墙配套](#翻墙配套)
   - [clash](#clash)
   - [Shadowrocket](#shadowrocket)
+  - [机场](#机场)
   - [giffgaff](#giffgaff)
   - [WildCard](#wildcard)
 - [笔记软件](#笔记软件)
@@ -26,8 +27,8 @@
   - [Windows](#windows)
     - [PowerShell 7+](#powershell-7)
       - [字体](#字体)
+      - [Oh my Posh](#oh-my-posh)
       - [插件](#插件-2)
-        - [Oh my Posh](#oh-my-posh)
 - [文件管理](#文件管理)
   - [Listary](#listary)
 - [时间管理](#时间管理)
@@ -56,7 +57,10 @@ ios系统的网络连接代理内核。
 需要通过购买美区Apple ID后进行下载。
 
 
+## 机场
+获取节点，通过代理内核实现科学上网。
 
+注册链接：https://www.dageyun.net/#/register?code=Gg8LaoGv
 
 
 ## giffgaff
@@ -126,19 +130,23 @@ ios系统的网络连接代理内核。
 * 支持git集成
 * 支持Anaconda集成
 
+使用指南：https://www.kashiwabyte.tech/article/pwshbetter
+
 ####  字体
 * FiraCode Nerd Font    
 * 好看且支持Oh my Posh
 
+使用指南：https://www.kashiwabyte.tech/article/pwshbeauty
 
-#### 插件
-##### Oh my Posh
+
+
+#### Oh my Posh
 Peru主题：支持git可视化，支持python版本可视化，支持时间记录，支持主机名记录
 ![image.png](https://kashiwa-pic.oss-cn-beijing.aliyuncs.com/20240308215336.png)
 
+使用指南：https://www.kashiwabyte.tech/article/pwshbeauty
 
-
-
+#### 插件
 
 # 文件管理
 ## Listary
