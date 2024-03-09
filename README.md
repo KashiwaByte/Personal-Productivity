@@ -50,6 +50,9 @@ Clash 是一个开源、免费的网络连接代理内核，支持主流的 VMes
 伟大，无需多言。
 ![image.png](https://kashiwa-pic.oss-cn-beijing.aliyuncs.com/20240309202438.png)
 
+资源链接：链接：https://pan.baidu.com/s/1k0wtiI3CwWnmq__0yZI5wg?pwd=c1k2   
+提取码：c1k2 
+
 
 
 ## Shadowrocket
