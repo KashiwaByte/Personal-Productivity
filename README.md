@@ -2,10 +2,17 @@
 
 > 这是一份笔者自用的资源清单，专注于提升个人生产力的知识方法和工具。
 >
-> 感谢jyguyomarch的[awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)，本单受其启发，
+>以下绝大部分软件和资源可以直接在网站上搜索到，部分特殊资源会给出链接。
+>
+> 感谢jyguyomarch的[awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)，本单受其启发。
 
 - [绝妙的个人生产力](#绝妙的个人生产力)
 - [The zen of productivity](#the-zen-of-productivity)
+- [翻墙配套](#翻墙配套)
+  - [clash](#clash)
+  - [Shadowrocket](#shadowrocket)
+  - [giffgaff](#giffgaff)
+  - [WildCard](#wildcard)
 - [笔记软件](#笔记软件)
   - [Obsidian](#obsidian)
   - [插件](#插件)
@@ -32,13 +39,42 @@
 3. 本地化优于云端
 4. 美观优于丑陋
 5. 精简优于芜杂
+6. 自由优于封闭
 
+# 翻墙配套
+
+## clash
+Clash 是一个开源、免费的网络连接代理内核，支持主流的 VMess 、 Shadowsocks 、 Trojan 、 Snell 、 SS/SSR 、 v2ray 等协议，是一款功能强大、易用性高的代理工具同时支持Windows、macOS、Linux、Android和iOS等多种操作系统，可以帮助用户在网络环境不稳定或受限制的情况下实现更好的上网体验。
+
+伟大，无需多言。
+![image.png](https://kashiwa-pic.oss-cn-beijing.aliyuncs.com/20240309202438.png)
+
+
+
+## Shadowrocket
+ios系统的网络连接代理内核。  
+需要通过购买美区Apple ID后进行下载。
+
+
+
+
+
+## giffgaff
+英区手机卡，用于接收国外各大网站的短信验证码。包括Google，OpenAI等。  
+接收短信免费，只需定期消费即可。淘宝即可购买，理论上可以用好几年。
+淘宝店铺：英国shutong旅游专营店
+
+
+## WildCard
+美国虚拟银行卡，可消费各大主流网站与服务，包含卡号，美国账单地址等信息。   
+注册链接：https://bewildcard.com/i/BOTE
 
 
 # 笔记软件
 
 ## Obsidian
 * 用于知识记录
+
 
 ## 插件
 
